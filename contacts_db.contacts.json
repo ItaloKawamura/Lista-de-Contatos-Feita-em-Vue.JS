@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "68ca033889bb3419cc6c557b"
+  },
+  "nome": "João Silva",
+  "email": "joao.silva@email.com",
+  "foto": "https://i.pravatar.cc/150?img=1"
+},
+{
+  "_id": {
+    "$oid": "68ca033889bb3419cc6c557c"
+  },
+  "nome": "Maria Oliveira",
+  "email": "maria.oliveira@email.com",
+  "foto": "https://i.pravatar.cc/150?img=2"
+},
+{
+  "_id": {
+    "$oid": "68ca033889bb3419cc6c557d"
+  },
+  "nome": "Carlos Souza",
+  "email": "carlos.souza@email.com",
+  "foto": "https://i.pravatar.cc/150?img=3"
+},
+{
+  "_id": {
+    "$oid": "68ca033889bb3419cc6c557e"
+  },
+  "nome": "Ana Costa",
+  "email": "ana.costa@email.com",
+  "foto": "https://i.pravatar.cc/150?img=4"
+},
+{
+  "_id": {
+    "$oid": "68ca033889bb3419cc6c557f"
+  },
+  "nome": "Lucas Fernandes",
+  "email": "lucas.fernandes@email.com",
+  "foto": "https://i.pravatar.cc/150?img=5"
+},
+{
+  "_id": {
+    "$oid": "68ca033889bb3419cc6c5580"
+  },
+  "nome": "Patrícia Lima",
+  "email": "patricia.lima@email.com",
+  "foto": "https://i.pravatar.cc/150?img=6"
+},
+{
+  "_id": {
+    "$oid": "68ca033889bb3419cc6c5581"
+  },
+  "nome": "Rafael Almeida",
+  "email": "rafael.almeida@email.com",
+  "foto": "https://i.pravatar.cc/150?img=7"
+},
+{
+  "_id": {
+    "$oid": "68ca033889bb3419cc6c5582"
+  },
+  "nome": "Juliana Rocha",
+  "email": "juliana.rocha@email.com",
+  "foto": "https://i.pravatar.cc/150?img=8"
+},
+{
+  "_id": {
+    "$oid": "68ca033889bb3419cc6c5583"
+  },
+  "nome": "Bruno Martins",
+  "email": "bruno.martins@email.com",
+  "foto": "https://i.pravatar.cc/150?img=9"
+},
+{
+  "_id": {
+    "$oid": "68ca033889bb3419cc6c5584"
+  },
+  "nome": "Fernanda Ribeiro",
+  "email": "fernanda.ribeiro@email.com",
+  "foto": "https://i.pravatar.cc/150?img=10"
+}]
